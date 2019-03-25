@@ -1,0 +1,28 @@
+[
+{
+  "IdFormaPagamento": ,
+  "IdFormaPagamentoParcelamento": ,
+  "NrSeguranca": "",
+  "Valor": ,
+  "Ciclo": "0",
+  "FlagCdc": false,
+  "Nome": "",
+  "NrCartao": "",
+  "DtValidadeAno": ,
+  "DtValidadeMes": "",
+  "GerarToken": true
+},
+{
+  "Ciclo": null,
+  "IdFormaPagamento": ,
+  "IdFormaPagamentoParcelamento": ,
+  "FlagCdc": false,
+  "GerarToken": false,
+  "Valor": ,
+  "Nome": null,
+  "NrCartao": null,
+  "NrSeguranca": null,
+  "DtValidadeAno": null,
+  "DtValidadeMes": null
+}
+]

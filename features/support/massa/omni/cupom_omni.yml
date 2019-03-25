@@ -1,0 +1,59 @@
+barateiro:
+  dev:
+  hlg:
+  stg:
+  prd:
+
+casasbahia:
+  dev:
+  hlg:
+    cpf:
+      valido: '14152520094'
+      invalido: '12345678912'
+      com_zero: '01931317062'
+      cnpj:
+      vazio: ''
+    cupom_ominichannel:
+      ativo: 'LOJA TOTAL'
+      vencido: 'QACONSULTAVENCIDO'
+      consumido: 'QACONSULTA0001'
+      deslogado: 'QACONSULTA0002'
+      vazio: ''
+    bandeira:
+      cb: 1
+      pf: 2
+      na: 3
+      vazio: ''
+    canal_venda:
+      loja_fisica: 1
+      mobile: 2
+      site: 3
+      televendas: 4
+      vazio: ''
+    lista_sku:
+      codigo_sku_elegivel: 12132419
+      codigo_sku_nao_legivel: 101010
+      vazio: ''
+    tipoVenda:
+      vv: 'vv'
+      err: 'er'
+  stg:
+  prd:
+
+extra:
+  dev:
+  hlg:
+  stg:
+  prd:
+
+hp:
+  dev:
+  hlg:
+  stg:
+  prd:
+
+pontofrio:
+  dev:
+  hlg:
+  stg:
+  prd:

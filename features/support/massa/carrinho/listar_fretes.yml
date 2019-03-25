@@ -1,0 +1,552 @@
+barateiro:
+  dev:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  hlg:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  stg:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  prd:
+    id_lojista:
+      gpa: "10038"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '13279095'
+      retira_lockers: "13279095"
+      retira_correios: "13279095"
+      sku_teste: "295742"
+      acima_1500_reais: '9991693'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+casasbahia:
+  dev:
+    id_lojista:
+      gpa: "10037"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  hlg:
+    id_lojista:
+      gpa: "10037"
+      retira_loja_consolacao: "12703"
+      retira_loja_mirassol: "13277"
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['1599244', '1599242', '11762510', '2142']
+      id_sku_carne1: "2142"
+      id_sku_carne2: "11762510"
+      id_sku_carne3: "1599242"
+      id_sku_carne4: "1599244"
+      retira_loja: "2142"
+      retira_lockers: "2142"
+      retira_correios: "2142"
+      sku_teste: ['1599244', '1599242', '11762510', '2142']
+      acima_1500_reais: '9991693'
+      retira_correios2: "13083148"
+
+    id_endereco_loja_fisica:
+      id_endereco_loja_fisica_retira: "85"
+      id_endereco_loja_fisica_lockers: "2318"
+      id_endereco_loja_fisica_correios: "2361"
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+    usuario_guid: "5b4fcb63-34f5-446f-9d37-f7f9437e893a"
+
+  stg:
+    id_lojista:
+      gpa: "10037"
+      retira_loja_consolacao: "12703"
+      retira_loja_mirassol: "13277"
+      loja_hp: '514'
+
+    id_sku:
+      pesado_sem_servico: "3048"
+      leve_sem_servico: "13279095"
+      leve_com_servico: "2203"
+      leve_com_ruptura: "4626848"
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '13279095'
+      retira_lockers: "13279095"
+      retira_correios: "13279095"
+      sku_teste: "295742"
+      acima_1500_reais: '9991693'
+      sku_storein_storein: '13189190'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: "1990"
+      retira_loja_sao_miguel: "3"
+      retira_loja_mirassol: "250"
+      correio_mirassol: "14386"
+      correio_cerqueira_cesar: "12966"
+      lockers_jardim_paulista: "2318"
+      locker_paraiso: "2317"
+      correio_guaianases: "2356"
+
+
+  prd:
+    id_lojista:
+      gpa: "10037"
+      retira_loja_consolacao: "12703"
+      retira_loja_mirassol: "13277"
+      loja_hp: '514'
+
+    id_sku:
+      pesado_sem_servico: "3048"
+      leve_sem_servico: "13911008"
+      leve_com_servico: "2203"
+      leve_com_ruptura: "4626848"
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '13279095'
+      retira_lockers: "13279095"
+      retira_correios: "13083148"
+      sku_teste: "295742"
+      acima_1500_reais: '9991693'
+      sku_storein_storein: '13189190'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: "1990"
+      retira_loja_sao_miguel: "3"
+      retira_loja_mirassol: "250"
+      correio_mirassol: "14386"
+      correio_cerqueira_cesar: "12966"
+      lockers_jardim_paulista: "2318"
+      locker_paraiso: "2317"
+      correio_guaianases: "2356"
+
+    usuario_guid: "5b4fcb63-34f5-446f-9d37-f7f9437e893a"
+
+extra:
+  dev:
+    id_lojista:
+      gpa: "15"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  hlg:
+    id_lojista:
+      gpa: "15"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  stg:
+    id_lojista:
+      gpa: "15"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '11823969'
+      retira_lockers: "13279095"
+      retira_correios: "13279095"
+      sku_teste: '13924565'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  prd:
+    id_lojista:
+      gpa: "15"
+      loja_hp: '514'
+      retira_loja_consolacao: "12703"
+      retira_loja_mirassol: "13277"
+
+    id_sku:
+      pesado_sem_servico: "3048"
+      leve_sem_servico: "13279095"
+      leve_com_servico: "2203"
+      leve_com_ruptura: "4626848"
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '13279095'
+      retira_lockers: "13279095"
+      retira_correios: "13083148"
+      sku_teste: "295742"
+      sku_storein_storein: '13189190'
+      acima_1500_reais: '9991693'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: "1990"
+      retira_loja_sao_miguel: "3"
+      retira_loja_mirassol: "250"
+      correio_mirassol: "14386"
+      correio_cerqueira_cesar: "12966"
+      lockers_jardim_paulista: "2318"
+      locker_paraiso: "2317"
+      correio_guaianases: "2356"
+
+    usuario_guid: ""
+
+hp:
+  dev:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  hlg:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  stg:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  prd:
+    id_lojista:
+      gpa: ""
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      sku_teste: "295742"
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+pontofrio:
+  dev:
+    id_lojista:
+      gpa: "1"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      acima_1500_reais: '9991693'
+
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  hlg:
+    id_lojista:
+      gpa: "1"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: '1599242'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  stg:
+    id_lojista:
+      gpa: "1"
+      retira_loja_consolacao: ""
+      retira_loja_mirassol: ""
+
+    id_sku:
+      pesado_sem_servico: ""
+      leve_sem_servico: ""
+      leve_com_servico: ""
+      leve_com_ruptura: ""
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: ""
+      retira_loja_sao_miguel: ""
+      retira_loja_mirassol: ""
+      correio_mirassol: ""
+      correio_cerqueira_cesar: ""
+      lockers_jardim_paulista: ""
+      locker_paraiso: ""
+      correio_guaianases: ""
+
+    usuario_guid: ""
+
+  prd:
+    id_lojista:
+      gpa: "16"
+      retira_loja_consolacao: "12703"
+      retira_loja_mirassol: "13277"
+      loja_hp: '514'
+
+    id_sku:
+      pesado_sem_servico: "3048"
+      leve_sem_servico: "13279095"
+      leve_com_servico: "2203"
+      leve_com_ruptura: "4626848"
+      normal: ['17686', '17693', '17727', '17728', '17729', '17731', '17734', '17735']
+      retira_loja: '13279095'
+      retira_lockers: "13279095"
+      retira_correios: "13083148"
+      sku_teste: "295742"
+      sku_storein_storein: '13189190'
+      acima_1500_reais: '9991693'
+
+    id_endereco_loja_fisica:
+      retira_loja_consolacao: "1990"
+      retira_loja_sao_miguel: "3"
+      retira_loja_mirassol: "250"
+      correio_mirassol: "14386"
+      correio_cerqueira_cesar: "12966"
+      lockers_jardim_paulista: "2318"
+      locker_paraiso: "2317"
+      correio_guaianases: "2356"
+
+    usuario_guid: ""

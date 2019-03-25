@@ -1,0 +1,15 @@
+{
+  "formaPagamentoCartaoPresente": {
+    "Token": "",
+    "Operador": "",
+    "IdUnidadeNegocio": ,
+    "PalavraCaptcha": "",
+    "CVV": "",
+    "Senha": "",
+    "IdFormaPagamento": "40",
+    "Numero": ""
+  },
+  "Token": "",
+  "IdUnidadeNegocio": ,
+  "Operador": ""
+}

@@ -1,0 +1,18 @@
+{
+  "entrega": {
+    "Token": "",
+    "IdUnidadeNegocio": 8,
+    "DataSelecionada": "01/02/2019",
+    "IdLojaFisicaSelecionado": "2318",
+    filtroLojaBairro: "Jardim Paulista",
+    filtroLojaCidade: "São Paulo",
+    filtroLojaEstado: "SP",
+    filtroLojaRegiao: "São Paulo Capital",
+    "CelularParaEnvioDeCodigo": "(11)99999-9999",
+    "IdEntregaTipoSelecionado": "24",
+    "IdClienteEnderecoSelecionado": ""
+  },
+  "Token": "",
+  "IdUnidadeNegocio": 8,
+  "Operador": ""
+}

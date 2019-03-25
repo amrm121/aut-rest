@@ -1,0 +1,36 @@
+{
+  "Produtos": [
+  {
+    "IdLojista": ,
+    "Codigo": ,
+    "Quantidade": ,
+    "Premio": ,
+    "PrecoVenda":
+  },
+  {
+    "IdLojista": ,
+    "Codigo": ,
+    "Quantidade": ,
+    "Premio": ,
+    "PrecoVenda":
+  }
+  ],
+  "EnderecoEntrega": {
+    "CEP": ,
+    "Estado": ,
+    "Logradouro": ,
+    "Cidade": ,
+    "Numero": ,
+    "Referencia": ,
+    "Bairro": ,
+    "Complemento": ,
+    "Telefone": ,
+    "Telefone2":
+  },
+  "Campanha": ,
+  "CNPJ": ,
+  "PedidoParceiro": ,
+  "ValorFrete":
+}
+
+

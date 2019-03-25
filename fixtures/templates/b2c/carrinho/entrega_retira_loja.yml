@@ -1,0 +1,17 @@
+{
+  "entrega": {
+    "Token": "",
+    "IdUnidadeNegocio": 8,
+    "DataSelecionada": "01/02/2019",
+    "IdLojaFisicaSelecionado": "864",
+    "filtroLojaBairro": "Jd. Helena Maria",
+    "filtroLojaCidade": "Osasco",
+    "filtroLojaRegiao": "São Paulo",
+    "filtroLojaEstado": "SP",
+    "IdEntregaTipoSelecionado": "12",
+    "IdClienteEnderecoSelecionado": ""
+  },
+  "Token": "",
+  "IdUnidadeNegocio": 8,
+  "Operador": ""
+}

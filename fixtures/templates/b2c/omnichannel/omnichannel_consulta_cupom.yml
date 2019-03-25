@@ -1,0 +1,14 @@
+{
+  "codigoBandeira": 1,
+  "codigoCanalVenda": 3,
+  "codigoCupom": "LOJA TOTAL",
+  "cpf": "14152520094",
+  "listaSku": [
+    {
+      "codigoSku": 12132419,
+      "quantidade": 1,
+      "tipoSku": "C"
+    }
+  ],
+  "tipoVenda": "vv"
+}

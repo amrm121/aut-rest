@@ -1,0 +1,13 @@
+{  
+   "entrega":{  
+      "CnpjLockerSelecionado":0,
+      
+      "IdClienteEnderecoSelecionado":17205968,
+      "IdEntregaTipoSelecionado":1,
+      "IdLojaFisicaSelecionado":0,
+      "IdPeriodoSelecionado":0,
+      "Telefone1":null,
+      "Telefone1DDD":null,
+      "CelularParaEnvioDeCodigo":null
+   }
+}

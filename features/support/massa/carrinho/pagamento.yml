@@ -1,0 +1,98 @@
+# Arquivo YML responsável por armazenar os dados dos meios de pagamento para serem
+# utilizados como massa
+
+#------------------------Dados cartão de crédito------------------------
+cartao_de_credito:
+  master:
+    numero: ['5141210574798827','5115320855142678','5199158140504206','5152001310637643','5254831666025812','5372836538947710']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste master"
+
+  master1:
+    numero: 5105105105105100,
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste master"
+
+  visa:
+    numero: ['4929709049036656','4916056264332518','4675764148917880','4929852439308283','4532778814472247','4539347197440669']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste visa"
+
+  amex:
+    numero: ['371028388534051','371607807975894','341065084451005','346236279167731','345665764292508','371582387147281']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 1111,
+    nome: "teste american express"
+
+  diners:
+    numero: ['36826539532297','30218777887169','38436256126154','30285372580929','38119986390478','30343169348768']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste diners"
+
+  elo:
+    numero: ['5041752997802679','6363689839397591','5066992916537564','5066995816207428']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste elo"
+
+  hipercard:
+    numero: ['6062823647453767','6062823727044072','6062823934472967','6062822086832101']
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste hipercard"
+
+  fic:
+    numero: 5204050338725953,
+    dtValMes: 01,
+    dtValAno: 2021,
+    cvv: 111,
+    nome: "teste gpa"
+
+
+
+
+#------------------------Dados cartão multicheque------------------------
+multicheque:
+  numero: 123468454165
+  dtValMes: 05
+  dtValAno: 2023
+  nome: 'Teste multicheque'
+
+
+#------------------------Dados cartão Presente----------------------------
+cartao_presente:
+  numero: 123456854687844
+
+#------------------------Dados descrição pagamento------------------------
+descricao_pagamento:
+  visa: 'Cartão de Crédito Visa '
+  master: 'Cartão de Crédito MasterCard'
+  diners: 'Cartão de Crédito Diners'
+  elo: 'Cartão de Crédito ELO'
+  hipercard: 'Cartão de Crédito Hipercard'
+  amex: 'Cartão de Crédito AMEX'
+  boleto: 'Boleto Bradesco'
+  cartao_presente: 'Cartão Presente B2B'
+
+
+
+
+#------------------------Dados descrição pagamento------------------------
+valor_minimo_boleto: '50'
+
+#------------------------Dados cupom desconto------------------------
+cupom_desconto:
+  valido:
+  invalido: 'HDGSGSYEJDD'
+  teste_meios_pagamento: 'SUPERCHEF'

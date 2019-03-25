@@ -1,0 +1,9 @@
+{
+  "FormasPagamento": [{
+        "IdFormaPagamento": ,
+        "Valor": ""
+  }],
+  "Token": "",
+  "IdUnidadeNegocio": ,
+  "Operador": ""
+}

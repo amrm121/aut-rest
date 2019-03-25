@@ -1,0 +1,15 @@
+{
+  "codigoBandeira": 1,
+  "codigoCanalVenda": 3,
+  "codigoCupom": "QACONSULTA0001",
+  "cpf": "14152520094",
+  "listaSku": [
+    {
+      "codigoSku": 12132419,
+      "quantidade": 1,
+      "tipoSku": "C"
+    }
+  ],
+  "tipoVenda": "string",
+  "taxaDesconto": 0
+}

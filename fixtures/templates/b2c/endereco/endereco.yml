@@ -1,0 +1,24 @@
+{
+   "clienteEndereco":{
+      "Token":"324612bb17114b508473309dbb22610a",
+      "Operador":"",
+      "IdUnidadeNegocio":8,
+      "RuaAutoPreenchida":"false",
+      "BairroAutoPreenchido":"false",
+      "PontoReferencia":"abc 1234",
+      "Estado":"SP",
+      "Municipio":"Osasco",
+      "Bairro":"Padroeira",
+      "Complemento":"dfsdfsfsf",
+      "Numero":"213123",
+      "Rua":"Avenida José Barbosa de Siqueira",
+      "Cep":"06020-194",
+      "Destinatario":"Testes testes",
+      "Nome":"Avenida José Barbosa de Siqueira",
+      "TipoEndereco":"Residencial",
+      "IdClienteEndereco":"0"
+   },
+   "Token":"324612bb17114b508473309dbb22610a",
+   "IdUnidadeNegocio":8,
+   "Operador":""
+}

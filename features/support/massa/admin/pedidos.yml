@@ -1,0 +1,149 @@
+barateiro:
+  dev:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  hlg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  stg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  prd:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+
+casasbahia:
+  dev:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  hlg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  stg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  prd:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+
+extra:
+  dev:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  hlg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  stg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  prd:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+
+hp:
+  dev:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  hlg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  stg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  prd:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+
+pontofrio:
+  dev:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  hlg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  stg:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'
+  prd:
+    confirmar_pedido:
+      IdCampanha: '2199'
+      IdPedidoParceiro: 'pedido_parceiro'
+      Nome: 'Willians Silva'
+      DestinatarioCpfCnpj: '08.845.775/0001-70'
+      DestinatarioEmail: '5drzi8h8@gmail.com'

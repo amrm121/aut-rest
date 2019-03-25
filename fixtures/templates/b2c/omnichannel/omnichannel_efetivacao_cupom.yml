@@ -1,0 +1,15 @@
+{
+  "codigoBandeira": 1,
+  "codigoCanalVenda": 3,
+  "codigoCupom": "ONCBSKUELEGIVEL",
+  "cpf": "39276974865",
+  "listaSku": [
+    {
+      "codigoSku": 12132410,
+      "quantidade": 1,
+      "tipoSku": "C"
+    }
+  ],
+  "pedidoVenda": 147870983,
+  "statusCupom": "A"
+}

@@ -1,0 +1,18 @@
+{
+  "IdCarrinhoSku": 10402,
+  "IdSkuServico": "2231",
+  "idSkuServicoApagar": "0",
+  "IdSkuServicoTipo": 129,
+  "IdTipoOperacao": "1",
+  "PresenteMensagem": null,
+  "PresenteDe": null,
+  "PresentePara": null,
+  "CodOrigemGES": "PC",
+  "IdSku": 11520181,
+  "IdLojista": 10037,
+  "PrecoVendaSku": 729,
+  "IdsServicosPlanos": "",
+  "Token": "",
+  "IdUnidadeNegocio": ,
+  "Operador": ""
+}

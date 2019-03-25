@@ -1,0 +1,108 @@
+barateiro:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '9110951'
+      retira2: '2393789'
+
+
+casasbahia:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+      cep_lockers: '04004040'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+      retira_lockers: '2203'
+      retira_correios: '13083148'
+  hlg:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+      cep_lockers: '04004040'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+      retira_lockers: '2203'
+
+extra:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+  hlg:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '9110951'
+      retira2: '2393789'
+
+hp:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+      cep_lockers: '04004040'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+      retira_lockers: '13279095'
+  hlg:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '9110951'
+      retira2: '2393789'
+
+pontofrio:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+  hlg:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '9110951'
+      retira2: '2393789'
+
+aoc:
+  prd:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '13083148'
+      retira2: '2393789'
+  hlg:
+    cep:
+      barra_funda: '01152010'
+      manaus: '69018080'
+      cep_inválido: '11111111'
+    sku:
+      retira: '9110951'
+      retira2: '2393789'
+

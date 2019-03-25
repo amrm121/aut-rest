@@ -1,0 +1,11 @@
+{
+  "FormasPagamento":
+    [{
+       "NumeroCartao": "",
+       "Valor":
+     }],
+  "FlagVisaCheckout": false,
+  "Token": "",
+  "IdUnidadeNegocio": ,
+  "Operador": ""
+}

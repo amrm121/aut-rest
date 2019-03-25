@@ -1,0 +1,13 @@
+{
+  "FormasPagamento": [
+  {
+    "IdFormaPagamento": ,
+    "Valor": "",
+    "NumeroCartao": ""
+  },
+  { "IdFormaPagamento": ,
+    "Valor": "",
+    "NumeroCartao": "" }
+  ],
+  "IdCompra": ""
+}

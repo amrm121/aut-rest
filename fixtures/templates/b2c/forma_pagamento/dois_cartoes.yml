@@ -1,0 +1,30 @@
+[
+{
+  "IdFormaPagamento": ,
+  "IdFormaPagamentoParcelamento": ,
+  "Nome": ,
+  "NrCartao": ,
+  "NrSeguranca": ,
+  "DtValidadeAno": ,
+  "DtValidadeMes": ,
+  "nrTelefoneCobranca": null,
+  "Ciclo": "0",
+  "Valor": ,
+  "FlagCdc": false,
+  "FlagGarantiaEstendida": false
+},
+{
+  "IdFormaPagamento": ,
+  "IdFormaPagamentoParcelamento": ,
+  "Nome": ,
+  "NrCartao": ,
+  "NrSeguranca": ,
+  "DtValidadeAno": ,
+  "DtValidadeMes": ,
+  "nrTelefoneCobranca": null,
+  "Ciclo": "0",
+  "Valor": ,
+  "FlagCdc": false,
+  "FlagGarantiaEstendida": false
+}
+]

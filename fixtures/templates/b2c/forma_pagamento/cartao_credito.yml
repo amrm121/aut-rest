@@ -1,0 +1,13 @@
+[{
+  "IdFormaPagamento": ,
+  "IdFormaPagamentoParcelamento": ,
+  "NrSeguranca": "123",
+  "Valor":,
+  "Ciclo": "0",
+  "FlagCdc": false,
+  "Nome": "TESTE TESTE",
+  "NrCartao": "4111111111111111",
+  "DtValidadeAno": 2020,
+  "DtValidadeMes": "01",
+  "GerarToken": false
+}]

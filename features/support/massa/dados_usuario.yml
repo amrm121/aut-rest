@@ -1,0 +1,129 @@
+email_valido:
+  prd:
+    casasbahia: 'vv_qa_bot_453864@mailinator.com'
+    pontofrio: 'vv_qa_bot_160555@mailinator.com'
+    extra: 'vv_qa_bot_685828@mailinator.com'
+    barateiro: 'vv_qa_bot_812336@mailinator.com'
+  stg:
+    casasbahia: 'vv_qa_bot_669039@mailinator.com'
+    pontofrio: 'vv_qa_bot_190388@mailinator.com'
+    extra: 'vv_qa_bot_723633@mailinator.com'
+    barateiro: ''
+  hlg:
+    casasbahia: ''
+    pontofrio: ''
+    extra: ''
+    barateiro: ''
+  dev:
+    casasbahia: ''
+    pontofrio: ''
+    extra: ''
+    barateiro: ''
+
+cep_valido:
+  sp: ['06020-194','08150-640','04852-410', '09750-300', '15804-395', '06110-210', '12070-750']
+  sp_paulista: ['01311-000', '01036-971', '01023-902', '01033-020', '01014-001']
+  sp_barra_funda: ['01136-040', '01140-100', '01151-040', '01154-000', '01155-030']
+  sp_pinheiros: ['05429-080', '05138-460', '05425-011', '05425-060', '05466-907']
+  sp_morumbi: ['05683-000', '05704-020', '05750-070', '05655-050']
+  rj: ['23555-300','23548-168','20021-000', '25080-340', '24472-125', '27920-090', '26190-510']
+
+
+# LOGIN
+casasbahia:
+  prd:
+    black_list:
+      email: 'user_automacao03112014_094935916@cnova.com'
+      senha: '123456'
+    carne_online:
+      email: 'vander.qa@mailinator.com'
+      senha: 'a123456'
+    carne_online2:
+      email: 'vander.qa.02@mailinator.com'
+      senha: 'a123456'
+    homologacao9:
+      email: 'homologacao9@meiospagamento.com'
+      senha: '123456a'
+
+  hlg:
+    carne_online:
+      email: 'vander.qa@mailinator.com'
+      senha: 'a123456'
+    carne_online2:
+      email: 'vander.qa.02@mailinator.com'
+      senha: 'a123456'
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+    homologacao9:
+      email: 'homologacao9@meiospagamento.com'
+      senha: '123456a'
+
+  dev:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+barateiro:
+  prd:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+  hlg:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+  dev:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+extra:
+  prd:
+    black_list:
+      email: 'user_automacao03112014_094725528@cnova.com'
+      senha: '123456'
+
+  hlg:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+  dev:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+  stg:
+    black_list:
+      email: 'user_automacao03112014_094725528@cnova.com'
+      senha: '123456'
+
+pontofrio:
+  prd:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+  hlg:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+    carne_online:
+      email: 'vander.qa@mailinator.com'
+      senha: 'a123456'
+    carne_online2:
+      email: 'vander.qa.02@mailinator.com'
+      senha: 'a123456'
+    homologacao9:
+      email: 'homologacao9@meiospagamento.com'
+      senha: '123456a'
+
+  dev:
+    black_list:
+      email: 'user_automacao03112014_094734139@cnova.com'
+      senha: '123456'
+
+

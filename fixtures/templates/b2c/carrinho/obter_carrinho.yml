@@ -1,0 +1,6 @@
+{
+  "FlagVerificaRegionalizacao": true,
+  "RecalcularCarrinho": true,
+  "LimparCarrinhoDescontosFormaPagamento": true,
+  "ExpirarPersistenciaValorCarrinho": true
+}

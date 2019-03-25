@@ -1,0 +1,45 @@
+# B2C
+## ApiComercio
+cliente: /Api/checkout/Cliente.svc
+carrinho: /Api/checkout/Carrinho.svc
+endereco: /Api/checkout/Endereco.svc
+forma_pagamento: /Api/checkout/FormaPagamento.svc
+bradesco_enviar_proposta: /PrimeiraCompraBradesco/EnviarDados
+omnichannel:
+  v1:
+  v2: http://10.128.145.82:8082/v2
+pedidos: /pedidos
+entrega: /entregas
+informacoes_envio_parceiro: /EstrategiaVenda/Marketplace/InformacoesEnvioParceiro
+listar_fretes: /api/Frete/Frete.svc
+recomendacao: /api/recommendations/
+
+## ApiLojaB2C
+compra_finalizada: /Loja/V3/Compras/CompraFinalizada
+
+#B2C - ApiAsyncOutrasLojasRetira
+async_outras_lojas_retira: /api/AsyncOutrasLojasRetira.ashx
+
+# B2B
+## ApiMarketing
+estrategia_venda_marketing: /EstrategiaVenda/Marketplace
+## ApiMaisPontos
+configuracoes: /Configuracoes
+## ApiWorkflow
+execucao_instancia: /Execucao/Instancia
+## ApiSeguranca
+chaves: /Chaves
+## ApiLoja
+compras: /Compras
+## ApiGateway
+maispontos: /maispontos
+## ApiCartaoPresente
+administracao: /Administracao
+## ApiCotadorB2B
+comum: /Comum
+## ApiCorporativo
+localidade: /Comum/Localidade
+## ApiCatalogo
+categorias: /Categorias
+## ApiAdminB2b
+loja_personalizada: /LojaPersonalizada

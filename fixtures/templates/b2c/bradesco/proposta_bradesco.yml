@@ -1,0 +1,61 @@
+#Payload que o front envia para o nosso serviço
+{
+  "enviarDadosPessoais": "",
+  "DadosPessoais":{
+    "Nome": "Teste QA Automacao API",
+    "Email": "testesqa@gmail.com",
+    "EmailConfirmacao": "testesqa@gmail.com",
+    "TelefoneCelular": "(11)94568-4568",
+    "Cpf": "671.377.660-48",
+    "Rg": "80781784093",
+    "IdSexo": "2",
+    "IdNacionalidade": "1",
+    "IdEstadoCivil": "2",
+    "DataNascimento": "12/12/1990",
+    "NomeMae": "Mae Completo",
+    "IdDependentes": "1",
+    "TelefoneResidencial": "(11)4568-4568",
+    "FlagAceitaMsgEmail": true,
+    "FlagAceitaMsgSMS": true
+  },
+  "enviarDadosProfissionais": "",
+  "DadosProfissionais":{
+    "NomeEmpresa": "via varejo",
+    "Ocupacao": "Analista",
+    "IdNaturezaOcupacao": "1",
+    "TempoAno": "01",
+    "TempoMes": "10",
+    "RendaMensal": "5000",
+    "TelefoneComercial": "(11)4568-4568"
+  },
+  "enviarDadosResidenciais": "",
+  "DadosResidenciais":{
+    "IdTipoResidencia": "1",
+    "Anos": "01",
+    "Meses": "01",
+    "Cep": "09520-010",
+    "Endereco": "R Joao Pessoa",
+    "Numero": "96",
+    "Complemento": "Bloco b",
+    "Bairro": "Centro",
+    "Cidade": "São Caetano do Sul",
+    "Uf": "SP"
+  },
+  "enviarDadosCartao": "",
+  "DadosCartao":{
+    "NomeImpressoCartao": "Teste QA Automacao",
+    "IdDiaVencimento": "01",
+    "FlagAutorizaServicoAvaliacaoEmergencialCredito": true,
+    "FlagSms": true,
+    "FlagBoleto": true,
+    "FlagAceiteTermo": true,
+    "FlagCartaoAdicional": false,
+    "Adicional":{
+      "NomeImpressoCartao": "Teste QA Automacao",
+      "Cpf": "950.109.350-66",
+      "DataNascimento": "12/12/1990",
+      "IdSexo": "2",
+      "IdParentesco": "Filho"
+    }
+  }
+}

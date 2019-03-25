@@ -1,0 +1,17 @@
+{
+  "entrega": {
+    "Token": "",
+    "IdUnidadeNegocio": ,
+    "DataSelecionada": "01/02/2019",
+    "IdLojaFisicaSelecionado": "2351",
+    "filtroLojaBairro": "CENTRO",
+    "filtroLojaCidade": "JUNDIAÍ",
+    "filtroLojaRegiao": "São Paulo",
+    "filtroLojaEstado": "SP",
+    "IdEntregaTipoSelecionado": "25",
+    "IdClienteEnderecoSelecionado": ""
+  },
+  "Token": "",
+  "IdUnidadeNegocio": 8,
+  "Operador": ""
+}

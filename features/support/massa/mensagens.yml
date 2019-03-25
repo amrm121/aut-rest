@@ -1,0 +1,16 @@
+barateiro:
+  email_senha_incorreto: 'E-mail ou senha incorretos.'
+  cupom_desconto_invalido: 'Nenhum cupom foi selecionado!'
+  digite_imagem_cartao_presente: 'Por favor digite a imagem corretamente!'
+casasbahia:
+  email_senha_incorreto: 'O e-mail ou a senha digitada está incorreta. Por favor, tente novamente.'
+  cupom_desconto_invalido: 'O Cupom digitado não é válido. Confira se o código digitado está correto, ou, se uma promoção melhor está sendo aplicada em seu carrinho de compras.'
+  digite_imagem_cartao_presente: 'Por favor digite a imagem corretamente!'
+pontofrio:
+  email_senha_incorreto: 'O e-mail ou a senha digitada está incorreta. Por favor, tente novamente.'
+  cupom_desconto_invalido: 'O Cupom digitado não é válido. Confira se o código digitado está correto, ou, se uma promoção melhor está sendo aplicada em seu carrinho de compras.'
+  digite_imagem_cartao_presente: 'Por favor digite a imagem corretamente!'
+extra:
+  email_senha_incorreto: 'O e-mail ou a senha digitada está incorreta. Por favor, tente novamente.'
+  cupom_desconto_invalido: 'O Cupom digitado não é válido. Confira se o código digitado está correto, ou, se uma promoção melhor está sendo aplicada em seu carrinho de compras.'
+  digite_imagem_cartao_presente: 'Por favor digite a imagem corretamente!'

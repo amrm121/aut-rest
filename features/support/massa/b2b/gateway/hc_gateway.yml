@@ -1,0 +1,71 @@
+barateiro:
+  prd:
+    calculo_pontos:
+      id_lojista: 10038
+      id_sku: 12658925
+      preco_venda: 579.9
+      id_unidade_negocio: 8
+      utm_source: b2b_dotz
+      utm_medium: dotz
+      utm_media: dotz
+      utm_campaign: dotz_parceiro3x1
+
+casasbahia:
+  prd:
+    calculo_pontos:
+      id_lojista: 10037
+      id_sku: 12658925
+      preco_venda: 579.9
+      id_unidade_negocio: 8
+      utm_source: b2b_dotz
+      utm_medium: dotz
+      utm_media: dotz
+      utm_campaign: dotz_parceiro3x1
+
+extra:
+  prd:
+    calculo_pontos:
+      id_lojista: 15
+      id_sku: 12658925
+      preco_venda: 579.9
+      id_unidade_negocio: 8
+      utm_source: b2b_dotz
+      utm_medium: dotz
+      utm_media: dotz
+      utm_campaign: dotz_parceiro3x1
+
+hp:
+  prd:
+    calculo_pontos:
+      id_lojista:
+      id_sku:
+      preco_venda:
+      id_unidade_negocio:
+      utm_source:
+      utm_medium:
+      utm_media:
+      utm_campaign:
+
+pontofrio:
+  prd:
+    calculo_pontos:
+      id_lojista: 16
+      id_sku: 12658925
+      preco_venda: 579.9
+      id_unidade_negocio: 8
+      utm_source: b2b_dotz
+      utm_medium: dotz
+      utm_media: dotz
+      utm_campaign: dotz_parceiro3x1
+
+aoc:
+  prd:
+    calculo_pontos:
+      id_lojista:
+      id_sku:
+      preco_venda:
+      id_unidade_negocio:
+      utm_source:
+      utm_medium:
+      utm_media:
+      utm_campaign:

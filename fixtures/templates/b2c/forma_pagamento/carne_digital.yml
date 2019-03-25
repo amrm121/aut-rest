@@ -1,0 +1,20 @@
+[{
+  "IdFormaPagamento":94,
+  "IdFormaPagamentoParcelamento":1898,
+  "Nome":null,
+  "NrCartao":null,
+  "NrSeguranca":null,
+  "DtValidadeAno":null,
+  "DtValidadeMes":null,
+  "nrTelefoneCobranca":null,
+  "Valor":,
+  "FormaPagamentoCarneOnline":{
+    "IdClienteLegado":,
+    "QuantidadeDeParcelasCarneOnline":,
+    "ValorTotalJuros":,
+    "TermoAceiteContrato":true,
+    "IdTermoAceiteContratoCarneOnline":9,
+    "Funcionario":true,
+    "ValorParcela":
+  }
+}]

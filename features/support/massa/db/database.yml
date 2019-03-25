@@ -1,0 +1,15 @@
+database:
+  hlg:
+    username: 'admin'
+    password: 'admin'
+    host: 'localhost'
+    port: '1433'
+  stage:
+    username: 'admin'
+    password: 'admin'
+    host: 'localhost'
+    port: '1433'
+
+mongo:
+  server: '10.128.132.233:27017'
+  database: 'db_hom_casasbahia_melhorias'
